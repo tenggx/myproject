@@ -9,3 +9,10 @@ def index(req):
 def theme(req):
     return render(req, 'theme.html',)
 
+
+def login(req):
+    return render(req, 'login.html',)
+
+
+def signin(req):
+    return render(req, 'signin.html')
