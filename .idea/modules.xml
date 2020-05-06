@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../bootstrap-demo/.idea/bootstrap-demo.iml" filepath="$PROJECT_DIR$/../bootstrap-demo/.idea/bootstrap-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dcp-xp-djangoweb-master/djangoweb/.idea/djangoweb.iml" filepath="$PROJECT_DIR$/../dcp-xp-djangoweb-master/djangoweb/.idea/djangoweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../learn_models/.idea/learn_models.iml" filepath="$PROJECT_DIR$/../learn_models/.idea/learn_models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../my_api/.idea/my_api.iml" filepath="$PROJECT_DIR$/../my_api/.idea/my_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myproject.iml" filepath="$PROJECT_DIR$/.idea/myproject.iml" />
+    </modules>
+  </component>
+</project>
