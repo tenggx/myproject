@@ -14,5 +14,5 @@ def login(req):
     return render(req, 'login.html',)
 
 
-def signin(req):
-    return render(req, 'signin.html')
+def signout(req):
+    return render(req, 'signout.html')
